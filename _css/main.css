@@ -4,8 +4,8 @@
  */
 
 html {
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 94%;
+  -webkit-text-size-adjust: 99%;
 }
 html, body  {
 	margin: 0;
@@ -17,7 +17,8 @@ article,aside,details,figcaption,figure,footer,header,main,nav,section,summary {
 
 /* Correct `inline-block` display not defined in IE 8/9. */
 audio,canvas,progress,video {
-  display: inline-block;
+  display: 
+  block;
   vertical-align: baseline; 
 }
 
